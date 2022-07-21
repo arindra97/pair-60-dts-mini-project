@@ -1,3 +1,9 @@
+## Belum selesai
+
+Mohon maaf ka Wendi, saya belum sempat mengerjakan dts mini project ini, karena minggu ini saya sedang menyiapkan materi dan stage untuk acara RUPUP kantor, rencananya akan saya kerjakan minggu depan kejar setoran bersama Final project :D
+
+---
+
 # DTS Mini Project
 
 Ketentuan lengkap bisa dilihat di [Mini Project Guidelines](https://docs.google.com/document/d/1DzBNYJMhruoOQK0NOqiW3_UZ1JrA285K53PzHLNf9mc/edit?usp=sharing).
